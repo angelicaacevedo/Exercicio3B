@@ -1,0 +1,15 @@
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/bin/Debug/net6.0/Exercicio3B
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/bin/Debug/net6.0/Exercicio3B.deps.json
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/bin/Debug/net6.0/Exercicio3B.runtimeconfig.json
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/bin/Debug/net6.0/Exercicio3B.dll
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/bin/Debug/net6.0/Exercicio3B.pdb
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/obj/Debug/net6.0/Exercicio3B.csproj.AssemblyReference.cache
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/obj/Debug/net6.0/Exercicio3B.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/obj/Debug/net6.0/Exercicio3B.AssemblyInfoInputs.cache
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/obj/Debug/net6.0/Exercicio3B.AssemblyInfo.cs
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/obj/Debug/net6.0/Exercicio3B.csproj.CoreCompileInputs.cache
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/obj/Debug/net6.0/Exercicio3B.dll
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/obj/Debug/net6.0/refint/Exercicio3B.dll
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/obj/Debug/net6.0/Exercicio3B.pdb
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/obj/Debug/net6.0/Exercicio3B.genruntimeconfig.cache
+/Users/almirtavares/Projects/Exercicio3B/Exercicio3B/obj/Debug/net6.0/ref/Exercicio3B.dll
